@@ -1,0 +1,1 @@
+this is a ai motivator chat bot made using hugginng face model and open ai api key, if u have gpt pro you can use it without any rate limit error i used a famous book name Change Your Day- Not Your Life _ a realistic guide to sustained motivation- more productivity and the art of working well u can use anything else to train it
